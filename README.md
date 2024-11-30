@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/github/forks/rajani103/DevOps-Projects"> <img src="https://img.shields.io/github/license/rajani103/DevOps-Projects"> <img src="https://img.shields.io/github/stars/rajani103/DevOps-Projects"> <a href="https://twitter.com/misalpavv" target="blank"><img src="https://img.shields.io/twitter/follow/misalpavv?logo=twitter&style=flat" alt="tush_tr604" /></a>
+<img src="https://img.shields.io/github/forks/rajani103/CICD-terraform-k8s"> <img src="https://img.shields.io/github/license/rajani103/CICD-terraform-k8s"> <img src="https://img.shields.io/github/stars/rajani103/CICD-terraform-k8s"> <a href="https://twitter.com/misalpavv" target="blank"><img src="https://img.shields.io/twitter/follow/misalpavv?logo=twitter&style=flat" alt="tush_tr604" /></a>
 
 # Complete CI/CD with Kubernetes/Docker, Terraform and GKE(Google Kubernetes Engine) 
 ### Tech used:
